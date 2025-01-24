@@ -13,7 +13,7 @@ This project demonstrates how to dockerize a Java application by creating a Dock
 ---
 
 ## **Prerequisites**
-1. **Docker Installed on Windows**:  
+1. **Docker Installed on Windows**: 
    Install Docker Desktop for Windows and ensure it is running. [Download Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 2. **Java Development Kit (JDK)**:  
